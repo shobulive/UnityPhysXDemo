@@ -5,19 +5,19 @@ This game is a simple roller game  where you have to balance the give object(s) 
 
 ## ScreenShots
 
-![ExpoLink](screenshot/1.png)
+![1](screenshot/1.png)
 
-![ExpoLink](screenshot/2.png)
+![2](screenshot/2.png)
 
-![ExpoLink](screenshot/3.png)
+![3](screenshot/3.png)
 
-![ExpoLink](screenshot/4.png)
+![4](screenshot/4.png)
 
-![ExpoLink](screenshot/5.png)
+![5](screenshot/5.png)
 
-![ExpoLink](screenshot/6.png)
+![6](screenshot/6.png)
 
-![ExpoLink](screenshot/7.png)
+![7](screenshot/7.png)
 
 > Note: The assets are not provieded as I do not have distribution rights over them. GFX were provided by www.bitgem3d.com
 
